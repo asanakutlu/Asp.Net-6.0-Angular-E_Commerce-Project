@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "BBfPy+U5gorBWlayD74W6cYpK2hH97MPySDrhbuIzH4=",
+  "Source": "E-CommerceAPI.API",
+  "BasePath": "_content/E-CommerceAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "E-CommerceAPI.API\\wwwroot",
+      "Source": "E-CommerceAPI.API",
+      "ContentRoot": "C:\\Users\\mustafa\\Desktop\\E-CommerceApplication\\E-CommerceAPI\\Presentation\\E-CommerceAPI.API\\wwwroot\\",
+      "BasePath": "_content/E-CommerceAPI.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
